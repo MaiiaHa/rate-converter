@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rate-converter/static/css/main.7acaea2f.css",
+    "main.js": "/rate-converter/static/js/main.8074034a.js",
+    "index.html": "/rate-converter/index.html",
+    "main.7acaea2f.css.map": "/rate-converter/static/css/main.7acaea2f.css.map",
+    "main.8074034a.js.map": "/rate-converter/static/js/main.8074034a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.8074034a.js"
+  ]
+}
