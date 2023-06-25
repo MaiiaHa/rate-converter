@@ -1,8 +1,8 @@
 {
-  "name": "currency-converter",
+  "name": "rate-converter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://irynabuchma.github.io/currency-converter/",
+  "homepage": "https://MaiiaHa.github.io/rate-converter/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.3",
